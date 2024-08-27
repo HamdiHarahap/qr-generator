@@ -58,8 +58,8 @@ body {
 
 @media screen and (max-width: 550px) {
 	body {
-		align-items: start;
-		margin-top: 5rem;
 		padding: 0 1.2rem;
+		overflow: hidden;
+		height: 90vh;
 	}
 }
